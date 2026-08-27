@@ -1,0 +1,29 @@
+name: Unzip VxxTabot
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Unzip Project
+        run: unzip -o vxxtabot.zip
+
+      - name: Remove ZIP
+        run: rm -f vxxtabot.zip
+
+      - name: Commit Extracted Files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Extract vxxtabot.zip" || echo "No changes to commit"
+          git push
