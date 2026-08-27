@@ -1,0 +1,6 @@
+{
+  "name": "VxxTaBot",
+  "description": "Telegram bot integration app to forward phone numbers and track replies in real-time",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
