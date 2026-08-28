@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">OtpTracker</string>
+    <string name="app_tagline">HACKER X • OTP TRACKER // @NawabKingMods</string>
+    <string name="connection_checking">ESTABLISHING TUNNEL</string>
+    <string name="connection_checking_detail">Please wait, connecting to server...</string>
+    <string name="connection_connected">CONNECTED</string>
+    <string name="connection_connected_detail">Credit by @NawabKingMods</string>
+    <string name="connection_need_start">Please wait, server not responding</string>
+    <string name="connection_need_start_detail">Start the bot in Telegram or send /start</string>
+    <string name="connection_network_error">Check your network</string>
+    <string name="connection_network_error_detail">Please connect to Wi-Fi or mobile data</string>
+    <string name="connection_api_error">Token Error</string>
+    <string name="connection_api_error_detail">Invalid Bot Token • Credit by @NawabKingMods</string>
+    <string name="phone_hint">+ Enter Target Phone Number</string>
+    <string name="phone_helper">Format: +[CountryCode][Number] (e.g. +923001234567)</string>
+    <string name="btn_submit">⚡ TRANSMIT TO @NawabKingMods</string>
+    <string name="btn_retry">Reconnect Tunnel</string>
+    <string name="status_ready">SYSTEM ARMED // READY TO TRANSMIT</string>
+    <string name="status_sending">[TX] INJECTING PAYLOAD TO @NawabKingMods...</string>
+    <string name="status_waiting_reply">[RX] SCANNING DECRYPTED OTP FEED (%1$d/%2$d)</string>
+    <string name="reply_received_title">📨 INCOMING OTP / TRANSMISSION INTERCEPTED</string>
+    <string name="reply_hacker_header">⚡ SEC_LAYER: ROOT ACCESS // Credit by @NawabKingMods</string>
+    <string name="history_title">TRANSMISSION LOGS</string>
+    <string name="history_empty">No encrypted logs found.</string>
+    <string name="btn_clear_history">Purge Logs</string>
+    <string name="dialog_clear_title">PURGE SYSTEM LOGS?</string>
+    <string name="dialog_clear_msg">Are you sure you want to permanently purge all transmission logs?</string>
+    <string name="dialog_clear_confirm">PURGE</string>
+    <string name="dialog_cancel">ABORT</string>
+    <string name="history_cleared">Transmission logs purged successfully</string>
+    <string name="error_start_with_plus">[!] Phone number must start with \'+\'</string>
+    <string name="error_connect_first">[!] Encrypted tunnel not established!</string>
+    <string name="error_empty_phone">[!] Enter a valid phone number</string>
+    <string name="btn_copy_reply">📋 COPY DECRYPTED MESSAGE</string>
+</resources>

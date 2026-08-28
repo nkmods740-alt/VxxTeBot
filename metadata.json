@@ -1,0 +1,6 @@
+{
+  "name": "OtpTracker",
+  "description": "Hacker X Cyber Security OTP and Phone Tracker Bot with real-time encrypted tunnel by @NawabKingMods",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

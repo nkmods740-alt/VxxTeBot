@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cyber Security / Hacker X Pure Neon Green Matrix Palette -->
+    <color name="primary">#00FF66</color>
+    <color name="primary_dark">#00CC52</color>
+    <color name="primary_light">#1A3D29</color>
+    <color name="accent">#00FF66</color>
+    <color name="accent_dark">#00B344</color>
+    
+    <color name="bg_main">#040806</color>
+    <color name="bg_surface">#08120C</color>
+    <color name="card_bg">#0A170F</color>
+    <color name="card_bg_elevated">#102418</color>
+    <color name="card_stroke">#163D24</color>
+    <color name="card_stroke_glow">#00FF66</color>
+    <color name="card_stroke_cyan">#00FF66</color>
+    
+    <color name="status_green_bg">#092614</color>
+    <color name="status_green_text">#00FF66</color>
+    <color name="status_green_stroke">#00E65C</color>
+    
+    <color name="status_yellow_bg">#261D03</color>
+    <color name="status_yellow_text">#FFDE59</color>
+    <color name="status_yellow_stroke">#FFC800</color>
+    
+    <color name="status_red_bg">#2E080E</color>
+    <color name="status_red_text">#FF3B5C</color>
+    <color name="status_red_stroke">#FF1744</color>
+
+    <color name="status_blue_bg">#092614</color>
+    <color name="status_blue_text">#00FF66</color>
+    <color name="status_blue_stroke">#00E65C</color>
+    
+    <color name="text_primary">#E8FFF0</color>
+    <color name="text_secondary">#85B896</color>
+    <color name="text_tertiary">#487056</color>
+    <color name="text_terminal">#00FF66</color>
+    
+    <color name="reply_card_bg">#092113</color>
+    <color name="reply_card_stroke">#00FF66</color>
+    <color name="reply_accent">#00FF66</color>
+    
+    <color name="history_item_bg">#08140D</color>
+    <color name="history_item_stroke">#12301D</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="cyber_code_bg">#020503</color>
+</resources>
